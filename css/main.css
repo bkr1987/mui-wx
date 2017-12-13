@@ -1,0 +1,12 @@
+.mui-bar-nav{
+	background-color:black;
+}
+.mui-title{
+	color:white;	
+}
+.mui-bar-tab .mui-tab-item.mui-active .mui-icon,.mui-bar-tab .mui-tab-item.mui-active .mui-tab-label{
+	color:#44bf19;
+}
+.mui-content>.mui-table-view:first-child{
+	margin-top: 0;
+}
